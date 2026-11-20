@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-DarkLichCode",
-  "commit": "469da1f6d74f297652cd31c192b262e511505c61",
-  "score": 80,
+  "commit": "75473f7881d59b045fb6b89796b8b373b4679f4a",
+  "score": 83,
   "totalScore": 110,
   "exercises": [
     {
@@ -569,23 +569,23 @@
     {
       "name": "threads1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "threads2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "threads3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "macros1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "DarkLichCode",
-  "runId": "44336113287",
+  "runId": "44715470450",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
